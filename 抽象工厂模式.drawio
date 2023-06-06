@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T09:07:17.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SSdNS6kEN-sHcHiVXx6U" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T09:08:10.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7W9BEGPdRQBKZC2JrAzT" version="21.3.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,6 +53,9 @@
             <mxPoint x="700" y="320" as="sourcePoint" />
             <mxPoint x="750" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BuC0Sq_59dJJj_-a2lk3-9" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:11.3pt;&quot;&gt;CacheService proxy_Gm = &lt;span style=&quot;color:#000000;&quot;&gt;JDKProxyFactory&lt;/span&gt;.&lt;span style=&quot;font-style:italic;&quot;&gt;getProxy&lt;/span&gt;(&lt;span style=&quot;color:#000000;&quot;&gt;CacheService&lt;/span&gt;.&lt;span style=&quot;color:#0033b3;&quot;&gt;class&lt;/span&gt;, &lt;span style=&quot;color:#000000;&quot;&gt;EGMCacheAdapter&lt;/span&gt;.&lt;span style=&quot;color:#0033b3;&quot;&gt;class&lt;/span&gt;);&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="109" y="480" width="610" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
